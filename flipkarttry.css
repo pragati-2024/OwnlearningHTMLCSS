@@ -78,7 +78,6 @@ html,body{
     flex-shrink: 0; /* stop shrinking */
 }
 
-
 .login1, .cart, .seller, .bar {
     display: flex;
     align-items: center;
