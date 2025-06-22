@@ -15,9 +15,7 @@ head,body{
     background-color: plum;
     padding: 20px;
     border: 2px solid black;
-    gap: 1rem;
-    
-    
+    gap: 1rem; 
 }
 .item{
     background-color: steelblue;
