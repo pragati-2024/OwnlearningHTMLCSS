@@ -17,6 +17,7 @@ head,body{
     border: 2px solid black;
     gap: 1rem; 
 }
+
 .item{
     background-color: steelblue;
     height: 200px;
